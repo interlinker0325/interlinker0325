@@ -12,6 +12,7 @@ My goal is to leverage my skills and experiences to drive success for clients, c
 - Backend: Node.js (Express.js, Nest.js), PHP (Laravel), Python (Django, Flask)
 - Databases: MongoDB, MySQL, PostgreSQL
 - Cloud Services: AWS (Lambda, Amplify, EC2, ELB, S3, Cognito, DynamoDB)
+
 **Blockchain Development**
 - Decentralized Exchange (DEX) Development
 - Cryptocurrency Wallet Development (Linux, Windows, macOS, Web)
@@ -20,6 +21,7 @@ My goal is to leverage my skills and experiences to drive success for clients, c
 - Token Development (Ethereum and Binance):   - ERC20, ERC721, ERC1155   - BEP20, BEP721, BEP1155
 - Private or Public Blockchain Development (Go, Rust)
 - Decentralized Application (DApp) Development with React.js
+
 **AI Skils**
 - Machine Learning: TensorFlow, PyTorch, Scikit-learn
 - Natural Language Processing (NLP): SpaCy, NLTK
