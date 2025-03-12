@@ -14,11 +14,7 @@ My goal is to leverage my skills and experiences to drive success for clients, c
 - Cloud Services: AWS (Lambda, Amplify, EC2, ELB, S3, Cognito, DynamoDB)
 
 **Blockchain Development**
-- Decentralized Exchange (DEX) Development
-- Cryptocurrency Wallet Development (Linux, Windows, macOS, Web)
-- Initial Coin Offering (ICO) & Initial DEX Offering (IDO)
 - Smart Contracts (Solidity, Truffle, Hardhat)
-- Token Development (Ethereum and Binance):   - ERC20, ERC721, ERC1155   - BEP20, BEP721, BEP1155
 - Private or Public Blockchain Development (Go, Rust)
 - Decentralized Application (DApp) Development with React.js
 
