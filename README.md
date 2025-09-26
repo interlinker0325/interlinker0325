@@ -1,4 +1,4 @@
-# [Software developer](https://t.me/softlight1012)
+# [Software developer](https://t.me/)
 
 ## About me
 As a passionate software developer, I thrive on the art of coding, transforming ideas into reality with my expertise in various programming languages. 
